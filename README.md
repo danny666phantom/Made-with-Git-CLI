@@ -1,12 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/danny666phantom/Made-with-Git-CLI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Hello world! my name is danny666phantom. Welcome to my Git web portfolio. This page was built using the Git command line.
 
 ```markdown
 Syntax highlighted code block
